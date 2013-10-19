@@ -1,0 +1,13 @@
+A simple slideshow app that enables to copy favorites pictures and to trash needless ones.
+It is suitable for extract some good pictures from tons.
+
+Key operations:
+  delete: move the current picture file to the trash directory (not the system trash)
+  enter: copy the current picture to the favorite directory, with renaming it using MD5
+  space: toggle start/stop slideshow
+  esc: toggle fullscreen
+  -: speed up
+  +: speed down
+  n or right arrow: next
+  b or left arrow: back
+
